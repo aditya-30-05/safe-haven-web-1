@@ -5,6 +5,7 @@ A modern, secure, and user-friendly **Women Safety Web Application** built to pr
 quick emergency assistance using an SOS system.  
 The project focuses on **security, reliability, and real-world usability**.
 
+
 ---
 
 ## 📌 Problem Statement
@@ -70,6 +71,7 @@ To enable location tracking with Google Maps:
    - Restrict the API key to your domain (recommended)
 
  
+
 
 
 
